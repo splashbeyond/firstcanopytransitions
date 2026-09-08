@@ -1,0 +1,16 @@
+{
+  "name": "First Canopy Transitions",
+  "short_name": "FC Transitions",
+  "description": "Private business sale conversations for business owners.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f1e7",
+  "theme_color": "#17352d",
+  "icons": [
+    {
+      "src": "/assets/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
